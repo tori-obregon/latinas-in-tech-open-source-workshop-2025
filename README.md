@@ -33,6 +33,7 @@ Monica: To lift my comunidad and build visible, inclusive tech spaces. <br>
 ## :star: Keep Exploring
 Want to keep going after today?
 Check out:
+[docs.github.com/en/get-started](https://docs.github.com/en/get-started)
 [firsttimersonly.com](https://www.firsttimersonly.com)
 [opensource.guide](https://opensource.guide)
 [github.com/intuit](https://github.com/intuit)
