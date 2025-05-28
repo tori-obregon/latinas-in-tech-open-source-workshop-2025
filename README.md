@@ -1,1 +1,1 @@
-# Comunidad Contributors Wall
+# :star: Comunidad Contributors Wall
