@@ -1,1 +1,1 @@
-# latinas-in-tech-open-source-workshop-2025
+# Comunidad Contributors Wall
