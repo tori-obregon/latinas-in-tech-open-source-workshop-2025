@@ -10,12 +10,10 @@ You’re invited to contribute by adding your name and favorite tech tool below.
 
 ---
 ## :writing_hand: How to Contribute
-- Click the `README.md` file above.
-- Click the pencil icon :pencil2: (top right) to edit.
-- Scroll to the section below and **add your name and favorite tech thing** (tool, language, platform—anything!)
-- Scroll down and click **“Propose changes.”**
-- Add a short message like “Added my name!” and click **“Create pull request.”**
-- That’s it—you’ve just contributed to open source!
+Click the `CONTRIBUTING.md` file above and follow the instructions to contribute to the two prompts below:
+- Latinas in Tech Shoutouts
+- Why I'm Excited About Open Source
+
 
 ---
 ## :speech_balloon: Latinas in Tech Shoutouts
