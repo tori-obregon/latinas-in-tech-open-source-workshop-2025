@@ -5,6 +5,7 @@
 ## ✅ Step 1: Fork the Repository
 - On the main repo page, click **"Fork"** (top-right corner).
 - This creates your own copy of the project.
+- Click "create fork"
 
 ---
 
