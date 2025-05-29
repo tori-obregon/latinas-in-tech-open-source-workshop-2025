@@ -23,8 +23,8 @@
 ---
 
 ## 💾 Step 4: Commit the Changes
-- Scroll down to the **Commit changes** section.
-- Add a title and (optionally) a description.
+- Click **Commit changes** button.
+- Add a title/commit message and (optionally) a description.
 - Select **"Create a new branch for this commit and start a pull request."**
 - Click **"Propose changes."**
 
@@ -34,8 +34,10 @@
 - Confirm that the pull request is going **from your fork → to the original repo**.
 - ✅ It should look like:
 > `original-owner/repo-name` ← `your-username:patch-1`
+- If it doesn't, click "compare across forks" and select the main repo from the drop down
 - Add a helpful title and description.
 - Click **"Create pull request."**
+- Click **"Create pull request."** again
 
 ---
 
