@@ -41,4 +41,4 @@ Check out:
 
 ---
 Gracias for being here and for being *you*. 
-Welcome to the world of open source!
+Welcome to the world of open source! 
