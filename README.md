@@ -28,7 +28,7 @@ victoria: i loved meeting all the new faces and learning how Latinas are making 
 Feel free to add your own reason below!<br>
 Example:<br>
 Monica: To lift my comunidad and build visible, inclusive tech spaces. <br>
-Victoria: open source is a great way to flex my technical skills
+Victoria: Open source is a great way to flex my technical skills
 
 ---
 ## :star: Keep Exploring
